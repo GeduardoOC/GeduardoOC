@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GeduardoOC
-- 👀 I’m interested in Techologies, frontend development and desing
-- 🌱 I’m currently learning reactjs library and docker
+- 👀 I’m interested in Techologies, especially AI 
+- 🌱 I’m currently learning Python and Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, you can send me a email
 <!---
